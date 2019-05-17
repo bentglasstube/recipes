@@ -1,6 +1,7 @@
-PAGES = index.html chuckie.html
+PAGES = index.html chuckie.html pork-rub.html board-sauce.html
 HOST = recipes.eatabrick.org
 PATH = /usr/local/www/$(HOST)
+TEMPLATES = template/header.tt template/footer.tt
 
 TPAGE = tpage
 MARKDOWN = markdown
@@ -16,8 +17,13 @@ deploy: all
 clean:
 	rm $(PAGES)
 
+index.html: index.tt $(TEMPLATES)
+	$(TPAGE) template/header.tt > $(.TARGET)
+	$(TPAGE) index.tt | $(MARKDOWN) >> $(.TARGET)
+	$(TPAGE) template/footer.tt >> $(.TARGET)
+
 .SUFFIXES: .html .md
-.md.html: template/footer.tt template/header.tt
+.md.html: $(TEMPLATES)
 	$(TPAGE) --define title=$(.PREFIX) template/header.tt > $(.TARGET)
 	$(MARKDOWN) $(.IMPSRC) >> $(.TARGET)
 	$(TPAGE) template/footer.tt >> $(.TARGET)
