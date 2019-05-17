@@ -13,7 +13,7 @@ but there is no sacrifice on the flavor.
  * [Alan's Pork Rub][1] or another rub without salt
  * apple juice
  * apple cider vinegar
- * [Board sauce][2] (optional)
+ * [Board Sauce][2] (optional)
 
 [1]: /pork-rub.html
 [2]: /board-sauce.html
