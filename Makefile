@@ -1,4 +1,4 @@
-PAGES = index.html chuckie.html pork-rub.html board-sauce.html
+PAGES = index.html chuckie.html pork-rub.html board-sauce.html jalapeno-relish.html
 HOST = recipes.eatabrick.org
 PATH = /usr/local/www/$(HOST)
 TEMPLATES = template/header.tt template/footer.tt
