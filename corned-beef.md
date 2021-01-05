@@ -9,7 +9,7 @@ I will make my own from scratch, but it's a pretty long proccess.
 
  * 3-4 lb corned beef brisket
  * mustard
- * [Alan's Pork Rub][1] (beef variety)
+ * [Alan's Pork Rub](/pork-rub.html) (beef variety)
  * Foil pan big enough to hold the brisket.
 
 ## Preparation

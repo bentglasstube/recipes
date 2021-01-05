@@ -11,7 +11,7 @@ of like jalape&ntilde;o poppers in meatball form I guess.
  * 1/2 lb hot italian sausage
  * 3-4 jalape&ntilde;os, diced
  * 1/2 shredded cheese (something like cheddar)
- * 2 tbsp [Alan's Pork Rub][rub]
+ * 2 tbsp [Alan's Pork Rub](/pork-rub.html)
  * 4 oz cream cheese
 
 ## Preparation

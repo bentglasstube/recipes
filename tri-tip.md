@@ -27,4 +27,4 @@ Rest the meat for 15 minutes.  Meanwhile, heat up a grill or cast iron
 pan for searing the meat.  Sear each side for a few minutes, then cut
 into slices against the grain.
 
-Serve topped with [pico de gallo](/pico.html).
+Serve topped with pico de gallo.

@@ -26,5 +26,5 @@ index.html: index.tt $(TEMPLATES)
 .SUFFIXES: .html .md
 .md.html: $(TEMPLATES)
 	$(TPAGE) --define title=$* template/header.tt > $@
-	$(MARKDOWN) $_ >> $@
+	$(MARKDOWN) $< >> $@
 	$(TPAGE) template/footer.tt >> $@

@@ -13,7 +13,7 @@ and filling the empty can half full with water instead.
 ## Ingredients
 
  * 5 lb whole chicken
- * [Alan's Pork Rub][1] or similar
+ * [Alan's Pork Rub](/pork-rub.html) or similar
  * salt
  * 1 can cheap beer
  * 2 tbsp chopped onion

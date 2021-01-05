@@ -4,7 +4,7 @@ Tomatoes are the worst.  Make salsa with the superior tomatillo.
 
 # Ingredients
 
- * 1.5 lbs tomatillos
+ * 1 1/2 lbs tomatillos
  * 4 jalapeño peppers
  * 1 yellow onion
  * 6 cloves garlic

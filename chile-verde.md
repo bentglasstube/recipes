@@ -5,8 +5,8 @@ main motivation to make too much of the other things.
 
 ## Ingredients
 
- * leftover [pork butt][1]
- * [salsa verde][2]
+ * leftover [pork butt](/pulled-pork.html)
+ * [salsa verde](/salsa-verde.html)
  * bacon fat (or butter if you don't have any)
  * 1 can pinto beans
 
